@@ -1,3 +1,5 @@
-asset bundle.js 1.93 KiB [compared for emit] [minimized] (name: main)
+asset index.html 2.32 KiB [emitted]
+asset main.js 1.93 KiB [emitted] [minimized] (name: main)
+asset favicon.ico 554 bytes [emitted] [from: favicon.svg] [copied]
 ./script.js 3.97 KiB [built] [code generated]
-webpack 5.104.1 compiled successfully in 275 ms
+webpack 5.104.1 compiled successfully in 887 ms
