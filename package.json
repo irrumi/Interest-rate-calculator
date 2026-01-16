@@ -1,0 +1,24 @@
+{
+  "name": "interest-rate-calculator",
+  "version": "1.0.0",
+  "description": "Calculate interest rates, compound interest, and loan payments",
+  "main": "script.js",
+  "scripts": {
+    "test": "jasmine",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "keywords": [
+    "interest",
+    "calculator",
+    "compound",
+    "financial"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
